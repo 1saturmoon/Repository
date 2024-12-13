@@ -93,12 +93,12 @@ if menu == "Profile":
     st.subheader("Team Members Profile")
     
     # Foto Profil
-    st.write("1. **John Doe** - Developer and Data Scientist. Passionate about AI and Machine Learning.")
+    st.write("1. **Aldilla Zaskia Jahrani** - Actuarial Science.")
     st.image("https://github.com/1saturmoon/Repository/blob/main/dila.jpg?raw=true", width=300)  # Gantilah URL ini dengan link foto profil yang valid
-    st.write("2. **Jane Smith** - UX/UI Designer. Focused on making user experiences smooth and enjoyable.")
-    st.image("https://www.example.com/jane_smith.jpg", width=150)  # Gantilah URL ini dengan link foto profil yang valid
-    st.write("3. **Mike Johnson** - Product Manager. Loves solving problems and delivering innovative solutions.")
-    st.image("https://www.example.com/mike_johnson.jpg", width=150)  # Gantilah URL ini dengan link foto profil yang valid
+    st.write("2. **Ridha Naura Hadisty ** - Actuarial Science.")
+    st.image("https://github.com/1saturmoon/Repository/blob/main/nau.jpg?raw=true", width=300)  # Gantilah URL ini dengan link foto profil yang valid
+    st.write("3. **Valerion Theodore Chandratama** - Actuarial Science.")
+    st.image("https://github.com/1saturmoon/Repository/blob/main/valen.jpg?raw=true", width=300)  # Gantilah URL ini dengan link foto profil yang valid
     
 elif menu == "Graph Visualization":
     st.subheader("Graph Visualizatin: Directed and Undirected")
