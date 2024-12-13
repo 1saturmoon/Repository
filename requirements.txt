@@ -1,5 +1,5 @@
-streamlit==1.18.1
-networkx==3.0
-matplotlib==3.7.1
-pydeck==0.8.0
-pandas==1.5.3
+streamlit
+networkx
+matplotlib
+pydeck
+pandas
