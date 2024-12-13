@@ -1,0 +1,66 @@
+{
+  "Bandung": {
+    "coords": [-6.9175, 107.6191],
+    "connections": ["Bekasi", "Cimahi", "Sumedang", "Garut"]
+  },
+  "Bekasi": {
+    "coords": [-6.2345, 107.0095],
+    "connections": ["Bandung", "Karawang", "Depok"]
+  },
+  "Cimahi": {
+    "coords": [-6.8764, 107.5306],
+    "connections": ["Bandung", "Sumedang", "Cianjur"]
+  },
+  "Karawang": {
+    "coords": [-6.3135, 107.2961],
+    "connections": ["Bekasi", "Subang"]
+  },
+  "Depok": {
+    "coords": [-6.3916, 106.7965],
+    "connections": ["Bekasi", "Bogor", "Jakarta"]
+  },
+  "Subang": {
+    "coords": [-6.6158, 107.7466],
+    "connections": ["Karawang", "Indramayu"]
+  },
+  "Cianjur": {
+    "coords": [-6.8135, 106.9347],
+    "connections": ["Cimahi", "Bandung", "Sukabumi"]
+  },
+  "Garut": {
+    "coords": [-7.2188, 107.8715],
+    "connections": ["Bandung", "Tasikmalaya"]
+  },
+  "Indramayu": {
+    "coords": [-6.3221, 108.2117],
+    "connections": ["Subang", "Cirebon"]
+  },
+  "Tasikmalaya": {
+    "coords": [-7.3783, 108.2206],
+    "connections": ["Garut", "Ciamis"]
+  },
+  "Cirebon": {
+    "coords": [-6.7030, 108.5550],
+    "connections": ["Indramayu", "Majalengka"]
+  },
+  "Sukabumi": {
+    "coords": [-6.9223, 106.9221],
+    "connections": ["Cianjur", "Bogor"]
+  },
+  "Majalengka": {
+    "coords": [-6.8211, 108.2082],
+    "connections": ["Cirebon", "Kuningan"]
+  },
+  "Kuningan": {
+    "coords": [-6.9786, 108.4435],
+    "connections": ["Majalengka", "Cirebon"]
+  },
+  "Ciamis": {
+    "coords": [-7.4450, 108.3893],
+    "connections": ["Tasikmalaya", "Banjar"]
+  },
+  "Banjar": {
+    "coords": [-7.4425, 108.5071],
+    "connections": ["Ciamis", "Tasikmalaya"]
+  }
+}
